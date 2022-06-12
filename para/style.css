@@ -1,0 +1,39 @@
+#papa{
+ margin-left: 20px;
+ width: fit-content;
+ background-color: ;
+}
+#hit{
+ cursor: context-menu;
+ background-color: none;
+ scroll-behavior: auto;
+ align-content: center;
+}
+#pro{
+	cursor: zoom-in;
+}
+.ashish{
+	font-size: 20px;
+	font-style: bold;
+}
+#mom{
+	font-size: 20px;
+}
+#bro{
+	font-size: 18px;
+}
+#pro{
+	padding: 2pc;
+ 
+}
+.kla{
+	cursor: pointer;
+}
+
+.mol{
+	margin: 0;
+	padding: 0
+}
+#collage{
+ margin-left: 10px;
+}
